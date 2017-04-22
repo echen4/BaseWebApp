@@ -16,6 +16,6 @@ function newFunction() {
 
   //$("#demo").html("~ cowboy taeyang ~");
   //$("#doge-image").append(`<img class="img-circle" src="/images/lmao.gif" />`);
-  document.body.style.background = "#f3f3f3 url('/images/lmao.gif') repeat top left fixed";
+  document.body.style.background = "#f3f3f3 url('/images/guy.jpg') repeat top left fixed";
 }
 
