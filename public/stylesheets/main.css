@@ -5,12 +5,12 @@ body {
 }
 
 h1 {
-  font-family: 'Comic Sans MS';
-  color: orange;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #fab;
 }
 
 p {
-  font-family: "Comic Sans MS";
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 30px;
 }
 
