@@ -14,6 +14,6 @@ function newFunction() {
   // jQuery can do a lot of crazy stuff so make sure to google around to find out more
 
   $("#demo").html("~ insecure world ~");
-  $("#taeyang-image").append(`<img class="img-circle" src="/images/lmao.gif" />`);
+  $("#doge-image").append(`<img class="img-circle" src="/images/lmao.gif" />`);
 }
 
